@@ -1,0 +1,5 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Ejercicio8.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Ejercicio8.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Ejercicio8.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Ejercicio8.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Ejercicio8.pdb

@@ -1,0 +1,14 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\bin\Debug\netcoreapp3.1\Web_Hosting.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\bin\Debug\netcoreapp3.1\Web_Hosting.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\bin\Debug\netcoreapp3.1\Web_Hosting.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\bin\Debug\netcoreapp3.1\Web_Hosting.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\bin\Debug\netcoreapp3.1\Web_Hosting.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\bin\Debug\netcoreapp3.1\Web_Hosting.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\obj\Debug\netcoreapp3.1\Web_Hosting.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\obj\Debug\netcoreapp3.1\Web_Hosting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\obj\Debug\netcoreapp3.1\Web_Hosting.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\obj\Debug\netcoreapp3.1\Web_Hosting.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\obj\Debug\netcoreapp3.1\Web_Hosting.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\obj\Debug\netcoreapp3.1\Web_Hosting.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\obj\Debug\netcoreapp3.1\Web_Hosting.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 5\Laboratorio_3\Web_Hosting\obj\Debug\netcoreapp3.1\Web_Hosting.genruntimeconfig.cache

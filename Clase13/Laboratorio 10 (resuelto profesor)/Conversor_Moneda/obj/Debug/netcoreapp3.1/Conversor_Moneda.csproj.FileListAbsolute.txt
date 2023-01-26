@@ -1,0 +1,14 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\bin\Debug\netcoreapp3.1\Conversor_Moneda.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\bin\Debug\netcoreapp3.1\Conversor_Moneda.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\bin\Debug\netcoreapp3.1\Conversor_Moneda.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\bin\Debug\netcoreapp3.1\Conversor_Moneda.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\bin\Debug\netcoreapp3.1\Conversor_Moneda.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\bin\Debug\netcoreapp3.1\Conversor_Moneda.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\obj\Debug\netcoreapp3.1\Conversor_Moneda.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\obj\Debug\netcoreapp3.1\Conversor_Moneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\obj\Debug\netcoreapp3.1\Conversor_Moneda.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\obj\Debug\netcoreapp3.1\Conversor_Moneda.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\obj\Debug\netcoreapp3.1\Conversor_Moneda.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\obj\Debug\netcoreapp3.1\Conversor_Moneda.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\obj\Debug\netcoreapp3.1\Conversor_Moneda.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Conversor_Moneda\obj\Debug\netcoreapp3.1\Conversor_Moneda.genruntimeconfig.cache

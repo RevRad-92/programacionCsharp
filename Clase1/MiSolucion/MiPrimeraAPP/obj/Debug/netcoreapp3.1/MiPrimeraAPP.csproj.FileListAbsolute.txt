@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\bin\Debug\netcoreapp3.1\MiPrimeraAPP.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\bin\Debug\netcoreapp3.1\MiPrimeraAPP.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\bin\Debug\netcoreapp3.1\MiPrimeraAPP.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\bin\Debug\netcoreapp3.1\MiPrimeraAPP.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\bin\Debug\netcoreapp3.1\MiPrimeraAPP.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\bin\Debug\netcoreapp3.1\MiPrimeraAPP.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\obj\Debug\netcoreapp3.1\MiPrimeraAPP.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\obj\Debug\netcoreapp3.1\MiPrimeraAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\obj\Debug\netcoreapp3.1\MiPrimeraAPP.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\obj\Debug\netcoreapp3.1\MiPrimeraAPP.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\obj\Debug\netcoreapp3.1\MiPrimeraAPP.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\obj\Debug\netcoreapp3.1\MiPrimeraAPP.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\obj\Debug\netcoreapp3.1\MiPrimeraAPP.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase1\MiSolucion\MiPrimeraAPP\obj\Debug\netcoreapp3.1\MiPrimeraAPP.genruntimeconfig.cache

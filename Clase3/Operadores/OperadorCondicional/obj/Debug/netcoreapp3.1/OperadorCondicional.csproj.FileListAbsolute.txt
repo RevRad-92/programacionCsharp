@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.genruntimeconfig.cache

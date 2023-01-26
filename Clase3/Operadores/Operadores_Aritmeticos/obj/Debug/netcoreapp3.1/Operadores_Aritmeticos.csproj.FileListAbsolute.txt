@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\bin\Debug\netcoreapp3.1\Operadores_Aritmeticos.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\bin\Debug\netcoreapp3.1\Operadores_Aritmeticos.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\bin\Debug\netcoreapp3.1\Operadores_Aritmeticos.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\bin\Debug\netcoreapp3.1\Operadores_Aritmeticos.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\bin\Debug\netcoreapp3.1\Operadores_Aritmeticos.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\bin\Debug\netcoreapp3.1\Operadores_Aritmeticos.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\obj\Debug\netcoreapp3.1\Operadores_Aritmeticos.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\obj\Debug\netcoreapp3.1\Operadores_Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\obj\Debug\netcoreapp3.1\Operadores_Aritmeticos.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\obj\Debug\netcoreapp3.1\Operadores_Aritmeticos.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\obj\Debug\netcoreapp3.1\Operadores_Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\obj\Debug\netcoreapp3.1\Operadores_Aritmeticos.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\obj\Debug\netcoreapp3.1\Operadores_Aritmeticos.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\Operadores_Aritmeticos\obj\Debug\netcoreapp3.1\Operadores_Aritmeticos.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\bin\Debug\netcoreapp3.1\Ejercicio2-Resolvente.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\bin\Debug\netcoreapp3.1\Ejercicio2-Resolvente.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\bin\Debug\netcoreapp3.1\Ejercicio2-Resolvente.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\bin\Debug\netcoreapp3.1\Ejercicio2-Resolvente.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\bin\Debug\netcoreapp3.1\Ejercicio2-Resolvente.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\bin\Debug\netcoreapp3.1\Ejercicio2-Resolvente.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\obj\Debug\netcoreapp3.1\Ejercicio2-Resolvente.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\obj\Debug\netcoreapp3.1\Ejercicio2-Resolvente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\obj\Debug\netcoreapp3.1\Ejercicio2-Resolvente.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\obj\Debug\netcoreapp3.1\Ejercicio2-Resolvente.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\obj\Debug\netcoreapp3.1\Ejercicio2-Resolvente.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\obj\Debug\netcoreapp3.1\Ejercicio2-Resolvente.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\obj\Debug\netcoreapp3.1\Ejercicio2-Resolvente.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Resolvente\obj\Debug\netcoreapp3.1\Ejercicio2-Resolvente.genruntimeconfig.cache

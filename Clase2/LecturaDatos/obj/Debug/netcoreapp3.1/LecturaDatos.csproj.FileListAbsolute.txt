@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\bin\Debug\netcoreapp3.1\LecturaDatos.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\bin\Debug\netcoreapp3.1\LecturaDatos.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\bin\Debug\netcoreapp3.1\LecturaDatos.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\bin\Debug\netcoreapp3.1\LecturaDatos.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\bin\Debug\netcoreapp3.1\LecturaDatos.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\bin\Debug\netcoreapp3.1\LecturaDatos.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\obj\Debug\netcoreapp3.1\LecturaDatos.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\obj\Debug\netcoreapp3.1\LecturaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\obj\Debug\netcoreapp3.1\LecturaDatos.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\obj\Debug\netcoreapp3.1\LecturaDatos.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\obj\Debug\netcoreapp3.1\LecturaDatos.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\obj\Debug\netcoreapp3.1\LecturaDatos.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\obj\Debug\netcoreapp3.1\LecturaDatos.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\LecturaDatos\obj\Debug\netcoreapp3.1\LecturaDatos.genruntimeconfig.cache

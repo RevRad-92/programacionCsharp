@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase8\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.genruntimeconfig.cache

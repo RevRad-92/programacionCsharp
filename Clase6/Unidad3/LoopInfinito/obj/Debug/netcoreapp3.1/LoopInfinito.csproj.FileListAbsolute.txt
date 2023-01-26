@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\bin\Debug\netcoreapp3.1\LoopInfinito.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\bin\Debug\netcoreapp3.1\LoopInfinito.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\bin\Debug\netcoreapp3.1\LoopInfinito.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\bin\Debug\netcoreapp3.1\LoopInfinito.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\bin\Debug\netcoreapp3.1\LoopInfinito.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\bin\Debug\netcoreapp3.1\LoopInfinito.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\obj\Debug\netcoreapp3.1\LoopInfinito.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\obj\Debug\netcoreapp3.1\LoopInfinito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\obj\Debug\netcoreapp3.1\LoopInfinito.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\obj\Debug\netcoreapp3.1\LoopInfinito.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\obj\Debug\netcoreapp3.1\LoopInfinito.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\obj\Debug\netcoreapp3.1\LoopInfinito.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\obj\Debug\netcoreapp3.1\LoopInfinito.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\LoopInfinito\obj\Debug\netcoreapp3.1\LoopInfinito.genruntimeconfig.cache

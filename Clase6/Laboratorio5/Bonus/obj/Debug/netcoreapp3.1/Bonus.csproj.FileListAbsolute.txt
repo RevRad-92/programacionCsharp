@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\obj\Debug\netcoreapp3.1\Bonus.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\obj\Debug\netcoreapp3.1\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\obj\Debug\netcoreapp3.1\Bonus.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\obj\Debug\netcoreapp3.1\Bonus.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\obj\Debug\netcoreapp3.1\Bonus.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\bin\Debug\netcoreapp3.1\Bonus.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\bin\Debug\netcoreapp3.1\Bonus.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\bin\Debug\netcoreapp3.1\Bonus.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\bin\Debug\netcoreapp3.1\Bonus.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\bin\Debug\netcoreapp3.1\Bonus.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\bin\Debug\netcoreapp3.1\Bonus.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\obj\Debug\netcoreapp3.1\Bonus.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\obj\Debug\netcoreapp3.1\Bonus.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Laboratorio5\Bonus\obj\Debug\netcoreapp3.1\Bonus.genruntimeconfig.cache

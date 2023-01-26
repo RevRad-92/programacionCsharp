@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\bin\Debug\netcoreapp3.1\Constantes.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\bin\Debug\netcoreapp3.1\Constantes.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\bin\Debug\netcoreapp3.1\Constantes.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\bin\Debug\netcoreapp3.1\Constantes.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\bin\Debug\netcoreapp3.1\Constantes.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\bin\Debug\netcoreapp3.1\Constantes.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\obj\Debug\netcoreapp3.1\Constantes.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\obj\Debug\netcoreapp3.1\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\obj\Debug\netcoreapp3.1\Constantes.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\obj\Debug\netcoreapp3.1\Constantes.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\obj\Debug\netcoreapp3.1\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\obj\Debug\netcoreapp3.1\Constantes.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\obj\Debug\netcoreapp3.1\Constantes.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase2\Constantes\obj\Debug\netcoreapp3.1\Constantes.genruntimeconfig.cache

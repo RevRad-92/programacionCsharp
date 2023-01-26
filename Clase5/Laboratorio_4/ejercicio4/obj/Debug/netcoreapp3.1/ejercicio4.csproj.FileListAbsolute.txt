@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase5\Laboratorio_4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.genruntimeconfig.cache

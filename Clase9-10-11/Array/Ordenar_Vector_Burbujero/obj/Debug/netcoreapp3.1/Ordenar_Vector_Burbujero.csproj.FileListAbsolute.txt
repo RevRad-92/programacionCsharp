@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\bin\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\bin\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\bin\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\bin\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\bin\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\bin\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\obj\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\obj\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\obj\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\obj\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\obj\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\obj\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\obj\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Array\Ordenar_Vector_Burbujero\obj\Debug\netcoreapp3.1\Ordenar_Vector_Burbujero.genruntimeconfig.cache

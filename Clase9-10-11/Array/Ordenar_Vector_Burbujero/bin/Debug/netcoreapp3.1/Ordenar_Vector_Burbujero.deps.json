@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ordenar_Vector_Burbujero/1.0.0": {
+        "runtime": {
+          "Ordenar_Vector_Burbujero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ordenar_Vector_Burbujero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

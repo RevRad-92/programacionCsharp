@@ -1,0 +1,14 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\bin\Debug\netcoreapp3.1\Rally.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\bin\Debug\netcoreapp3.1\Rally.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\bin\Debug\netcoreapp3.1\Rally.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\bin\Debug\netcoreapp3.1\Rally.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\bin\Debug\netcoreapp3.1\Rally.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\bin\Debug\netcoreapp3.1\Rally.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\obj\Debug\netcoreapp3.1\Rally.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\obj\Debug\netcoreapp3.1\Rally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\obj\Debug\netcoreapp3.1\Rally.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\obj\Debug\netcoreapp3.1\Rally.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\obj\Debug\netcoreapp3.1\Rally.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\obj\Debug\netcoreapp3.1\Rally.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\obj\Debug\netcoreapp3.1\Rally.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\Rally\obj\Debug\netcoreapp3.1\Rally.genruntimeconfig.cache

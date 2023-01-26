@@ -1,0 +1,14 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\bin\Debug\netcoreapp3.1\LoginV2.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\bin\Debug\netcoreapp3.1\LoginV2.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\bin\Debug\netcoreapp3.1\LoginV2.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\bin\Debug\netcoreapp3.1\LoginV2.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\bin\Debug\netcoreapp3.1\LoginV2.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\bin\Debug\netcoreapp3.1\LoginV2.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\obj\Debug\netcoreapp3.1\LoginV2.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\obj\Debug\netcoreapp3.1\LoginV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\obj\Debug\netcoreapp3.1\LoginV2.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\obj\Debug\netcoreapp3.1\LoginV2.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\obj\Debug\netcoreapp3.1\LoginV2.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\obj\Debug\netcoreapp3.1\LoginV2.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\obj\Debug\netcoreapp3.1\LoginV2.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\LoginV2\obj\Debug\netcoreapp3.1\LoginV2.genruntimeconfig.cache

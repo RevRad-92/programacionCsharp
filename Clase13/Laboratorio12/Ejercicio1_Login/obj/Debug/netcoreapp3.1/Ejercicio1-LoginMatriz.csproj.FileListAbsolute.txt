@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-LoginMatriz.genruntimeconfig.cache

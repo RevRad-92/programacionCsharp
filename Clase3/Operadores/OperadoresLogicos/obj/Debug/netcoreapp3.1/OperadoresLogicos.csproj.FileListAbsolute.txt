@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.genruntimeconfig.cache

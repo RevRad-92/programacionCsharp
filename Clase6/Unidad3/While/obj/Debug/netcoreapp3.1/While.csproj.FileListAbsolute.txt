@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\bin\Debug\netcoreapp3.1\While.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\bin\Debug\netcoreapp3.1\While.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\obj\Debug\netcoreapp3.1\While.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\obj\Debug\netcoreapp3.1\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\obj\Debug\netcoreapp3.1\While.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\obj\Debug\netcoreapp3.1\While.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase6\Unidad3\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.genruntimeconfig.cache

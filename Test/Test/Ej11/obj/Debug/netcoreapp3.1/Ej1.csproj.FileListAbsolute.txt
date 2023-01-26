@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\bin\Debug\netcoreapp3.1\Ej1.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\bin\Debug\netcoreapp3.1\Ej1.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\bin\Debug\netcoreapp3.1\Ej1.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\bin\Debug\netcoreapp3.1\Ej1.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\bin\Debug\netcoreapp3.1\Ej1.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\bin\Debug\netcoreapp3.1\Ej1.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\obj\Debug\netcoreapp3.1\Ej1.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\obj\Debug\netcoreapp3.1\Ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\obj\Debug\netcoreapp3.1\Ej1.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\obj\Debug\netcoreapp3.1\Ej1.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\obj\Debug\netcoreapp3.1\Ej1.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\obj\Debug\netcoreapp3.1\Ej1.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\obj\Debug\netcoreapp3.1\Ej1.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Test\Test\Ej11\obj\Debug\netcoreapp3.1\Ej1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\bin\Debug\netcoreapp3.1\OperadorCondicional.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\OperadorCondicional\obj\Debug\netcoreapp3.1\OperadorCondicional.genruntimeconfig.cache

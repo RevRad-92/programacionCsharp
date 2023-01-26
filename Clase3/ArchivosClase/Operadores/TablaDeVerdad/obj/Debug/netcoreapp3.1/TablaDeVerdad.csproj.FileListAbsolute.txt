@@ -1,0 +1,28 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 3\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.genruntimeconfig.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\bin\Debug\netcoreapp3.1\TablaDeVerdad.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase3\ArchivosClase\Operadores\TablaDeVerdad\obj\Debug\netcoreapp3.1\TablaDeVerdad.genruntimeconfig.cache

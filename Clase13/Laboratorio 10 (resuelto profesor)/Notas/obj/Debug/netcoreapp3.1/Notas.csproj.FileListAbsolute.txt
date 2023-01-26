@@ -1,0 +1,14 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\bin\Debug\netcoreapp3.1\Notas.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\bin\Debug\netcoreapp3.1\Notas.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\bin\Debug\netcoreapp3.1\Notas.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\bin\Debug\netcoreapp3.1\Notas.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\bin\Debug\netcoreapp3.1\Notas.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\bin\Debug\netcoreapp3.1\Notas.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\obj\Debug\netcoreapp3.1\Notas.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\obj\Debug\netcoreapp3.1\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\obj\Debug\netcoreapp3.1\Notas.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\obj\Debug\netcoreapp3.1\Notas.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\obj\Debug\netcoreapp3.1\Notas.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 13\Laboratorio 10\Notas\obj\Debug\netcoreapp3.1\Notas.genruntimeconfig.cache

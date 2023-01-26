@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\bin\Debug\netcoreapp3.1\For.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\bin\Debug\netcoreapp3.1\For.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\bin\Debug\netcoreapp3.1\For.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\bin\Debug\netcoreapp3.1\For.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\obj\Debug\netcoreapp3.1\For.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\obj\Debug\netcoreapp3.1\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\obj\Debug\netcoreapp3.1\For.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\obj\Debug\netcoreapp3.1\For.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\obj\Debug\netcoreapp3.1\For.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase7\Break_continue\For\obj\Debug\netcoreapp3.1\For.genruntimeconfig.cache

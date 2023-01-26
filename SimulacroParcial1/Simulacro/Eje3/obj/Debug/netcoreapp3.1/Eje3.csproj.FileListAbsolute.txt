@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\bin\Debug\netcoreapp3.1\Eje3.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\bin\Debug\netcoreapp3.1\Eje3.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\bin\Debug\netcoreapp3.1\Eje3.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\bin\Debug\netcoreapp3.1\Eje3.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\bin\Debug\netcoreapp3.1\Eje3.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\bin\Debug\netcoreapp3.1\Eje3.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\obj\Debug\netcoreapp3.1\Eje3.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\obj\Debug\netcoreapp3.1\Eje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\obj\Debug\netcoreapp3.1\Eje3.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\obj\Debug\netcoreapp3.1\Eje3.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\obj\Debug\netcoreapp3.1\Eje3.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\obj\Debug\netcoreapp3.1\Eje3.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\obj\Debug\netcoreapp3.1\Eje3.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\SimulacroParcial1\Simulacro_MADEONICOLAS\Eje3\obj\Debug\netcoreapp3.1\Eje3.genruntimeconfig.cache

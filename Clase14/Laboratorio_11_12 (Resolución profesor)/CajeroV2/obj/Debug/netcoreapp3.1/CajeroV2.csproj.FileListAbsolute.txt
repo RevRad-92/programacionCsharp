@@ -1,0 +1,14 @@
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\bin\Debug\netcoreapp3.1\CajeroV2.exe
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\bin\Debug\netcoreapp3.1\CajeroV2.deps.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\bin\Debug\netcoreapp3.1\CajeroV2.runtimeconfig.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\bin\Debug\netcoreapp3.1\CajeroV2.runtimeconfig.dev.json
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\bin\Debug\netcoreapp3.1\CajeroV2.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\bin\Debug\netcoreapp3.1\CajeroV2.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\obj\Debug\netcoreapp3.1\CajeroV2.csproj.AssemblyReference.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\obj\Debug\netcoreapp3.1\CajeroV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\obj\Debug\netcoreapp3.1\CajeroV2.AssemblyInfoInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\obj\Debug\netcoreapp3.1\CajeroV2.AssemblyInfo.cs
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\obj\Debug\netcoreapp3.1\CajeroV2.csproj.CoreCompileInputs.cache
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\obj\Debug\netcoreapp3.1\CajeroV2.dll
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\obj\Debug\netcoreapp3.1\CajeroV2.pdb
+C:\Users\cboronat\Archivos\Cesar\Estudio\Cursos a Dictar\Programación Logica\Año 2022 2C\Clase 14\Laboratorio_11_12\CajeroV2\obj\Debug\netcoreapp3.1\CajeroV2.genruntimeconfig.cache

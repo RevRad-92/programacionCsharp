@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\bin\Debug\netcoreapp3.1\Eje1.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\bin\Debug\netcoreapp3.1\Eje1.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\bin\Debug\netcoreapp3.1\Eje1.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\bin\Debug\netcoreapp3.1\Eje1.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\bin\Debug\netcoreapp3.1\Eje1.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\bin\Debug\netcoreapp3.1\Eje1.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\obj\Debug\netcoreapp3.1\Eje1.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\obj\Debug\netcoreapp3.1\Eje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\obj\Debug\netcoreapp3.1\Eje1.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\obj\Debug\netcoreapp3.1\Eje1.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\obj\Debug\netcoreapp3.1\Eje1.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\obj\Debug\netcoreapp3.1\Eje1.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\obj\Debug\netcoreapp3.1\Eje1.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9-10\Laboratorio\Laboratorio9\Eje1\obj\Debug\netcoreapp3.1\Eje1.genruntimeconfig.cache

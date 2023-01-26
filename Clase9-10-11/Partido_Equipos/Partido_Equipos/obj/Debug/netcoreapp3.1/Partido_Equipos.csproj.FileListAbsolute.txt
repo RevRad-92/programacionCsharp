@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\bin\Debug\netcoreapp3.1\Partido_Equipos.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\bin\Debug\netcoreapp3.1\Partido_Equipos.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\bin\Debug\netcoreapp3.1\Partido_Equipos.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\bin\Debug\netcoreapp3.1\Partido_Equipos.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\bin\Debug\netcoreapp3.1\Partido_Equipos.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\bin\Debug\netcoreapp3.1\Partido_Equipos.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\obj\Debug\netcoreapp3.1\Partido_Equipos.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\obj\Debug\netcoreapp3.1\Partido_Equipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\obj\Debug\netcoreapp3.1\Partido_Equipos.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\obj\Debug\netcoreapp3.1\Partido_Equipos.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\obj\Debug\netcoreapp3.1\Partido_Equipos.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\obj\Debug\netcoreapp3.1\Partido_Equipos.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\obj\Debug\netcoreapp3.1\Partido_Equipos.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase9\Partido_Equipos\Partido_Equipos\obj\Debug\netcoreapp3.1\Partido_Equipos.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\bin\Debug\netcoreapp3.1\IMC.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\bin\Debug\netcoreapp3.1\IMC.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\bin\Debug\netcoreapp3.1\IMC.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\bin\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\obj\Debug\netcoreapp3.1\IMC.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\obj\Debug\netcoreapp3.1\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\obj\Debug\netcoreapp3.1\IMC.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\obj\Debug\netcoreapp3.1\IMC.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\obj\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Parcial2\Madeo_Nicolas\IMC\obj\Debug\netcoreapp3.1\IMC.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-Rally.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-Rally.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-Rally.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-Rally.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-Rally.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1-Rally.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-Rally.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-Rally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-Rally.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-Rally.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-Rally.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-Rally.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-Rally.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio11\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1-Rally.genruntimeconfig.cache

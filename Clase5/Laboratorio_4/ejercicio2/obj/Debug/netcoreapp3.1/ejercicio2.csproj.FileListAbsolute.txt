@@ -1,0 +1,14 @@
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.exe
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.deps.json
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.json
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.dev.json
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.dll
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.pdb
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.AssemblyReference.cache
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfoInputs.cache
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfo.cs
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CoreCompileInputs.cache
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.dll
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.pdb
+\\Revrad92\istea\Programacion\Clase5\Laboratorio_4\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.genruntimeconfig.cache

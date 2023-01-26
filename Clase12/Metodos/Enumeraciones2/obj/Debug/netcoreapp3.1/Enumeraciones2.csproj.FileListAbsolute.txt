@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\bin\Debug\netcoreapp3.1\Enumeraciones2.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\bin\Debug\netcoreapp3.1\Enumeraciones2.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\bin\Debug\netcoreapp3.1\Enumeraciones2.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\bin\Debug\netcoreapp3.1\Enumeraciones2.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\bin\Debug\netcoreapp3.1\Enumeraciones2.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\bin\Debug\netcoreapp3.1\Enumeraciones2.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\obj\Debug\netcoreapp3.1\Enumeraciones2.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\obj\Debug\netcoreapp3.1\Enumeraciones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\obj\Debug\netcoreapp3.1\Enumeraciones2.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\obj\Debug\netcoreapp3.1\Enumeraciones2.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\obj\Debug\netcoreapp3.1\Enumeraciones2.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\obj\Debug\netcoreapp3.1\Enumeraciones2.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\obj\Debug\netcoreapp3.1\Enumeraciones2.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase12\Metodos\Enumeraciones2\obj\Debug\netcoreapp3.1\Enumeraciones2.genruntimeconfig.cache

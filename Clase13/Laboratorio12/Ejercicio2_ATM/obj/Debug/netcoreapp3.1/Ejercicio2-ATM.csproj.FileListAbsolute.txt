@@ -1,0 +1,14 @@
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\bin\Debug\netcoreapp3.1\Ejercicio2-ATM.exe
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\bin\Debug\netcoreapp3.1\Ejercicio2-ATM.deps.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\bin\Debug\netcoreapp3.1\Ejercicio2-ATM.runtimeconfig.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\bin\Debug\netcoreapp3.1\Ejercicio2-ATM.runtimeconfig.dev.json
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\bin\Debug\netcoreapp3.1\Ejercicio2-ATM.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\bin\Debug\netcoreapp3.1\Ejercicio2-ATM.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\obj\Debug\netcoreapp3.1\Ejercicio2-ATM.csproj.AssemblyReference.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\obj\Debug\netcoreapp3.1\Ejercicio2-ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\obj\Debug\netcoreapp3.1\Ejercicio2-ATM.AssemblyInfoInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\obj\Debug\netcoreapp3.1\Ejercicio2-ATM.AssemblyInfo.cs
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\obj\Debug\netcoreapp3.1\Ejercicio2-ATM.csproj.CoreCompileInputs.cache
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\obj\Debug\netcoreapp3.1\Ejercicio2-ATM.dll
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\obj\Debug\netcoreapp3.1\Ejercicio2-ATM.pdb
+C:\Users\nmade\Documents\ISTEA\Programacion\Clase13\Laboratorio12\Ejercicio2-ATM\obj\Debug\netcoreapp3.1\Ejercicio2-ATM.genruntimeconfig.cache
